@@ -1,0 +1,30 @@
+Início
+1-acordar e levantar;
+2-desligar o despertador;
+3-acender a luz;
+4-ir ao banheiro e escovar os dentes;
+5-berber água e trocar de roupa;
+6-tomar café;
+7-pegar a mochila;
+8-olhar pela janela;
+9- se estiver chovendo;
+   1-pegar o guarda-chuva;
+   2-caminhar até a porta;
+   3-colocar a chave na fechadura;
+   4-girar 360° graus;
+   5-colocar a mão na maçaneta;
+   6-girar a maçaneta;
+   7-abrir a porta;
+   8- sair;
+   9-colocar a mão na maçaneta;
+   10-fechar a porta;
+10-Se estiver sol;
+   1-caminhar até a porta;
+   2-colocar a chave na fechadura;
+   3-girar a chave 360° graus;
+   4-colocar a mão na maçaneta;
+   5-girar a maçaneta;
+   6-abrir a porta;
+   7-sair
+   8-fechar a porta;
+Fim
